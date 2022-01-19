@@ -21,14 +21,18 @@
     "grid"
   ],
   "author": "Nike Showroom Digital Enablement",
-  "contributors": [{
-    "name": "Cameron Knight",
-    "email": "Cameron.Knight@nike.com"
-  }],
-  "maintainers": [{
-    "name": "Cameron Knight",
-    "email": "Cameron.Knight@nike.com"
-  }],
+  "contributors": [
+    {
+      "name": "Cameron Knight",
+      "email": "Cameron.Knight@nike.com"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Cameron Knight",
+      "email": "Cameron.Knight@nike.com"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "react": "^16.5.0",
